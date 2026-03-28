@@ -8,7 +8,7 @@ To use the app, the user launches it to view a list of tasks. They can add a new
 
 The purpose of creating this application was to learn mobile app development using Kotlin and Jetpack Compose, and to understand how user interfaces, navigation, and local data storage work in Android applications. This project also helped me gain experience with event handling, state management, and building responsive layouts for mobile devices.
 
-[Software Demo Video](https://youtu.be/h-r8J8KLGkY)
+[Software Demo Video](https://youtu.be/Ry-iGIpfjGo)
 
 # Development Environment
 
