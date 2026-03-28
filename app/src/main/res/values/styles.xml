@@ -1,0 +1,6 @@
+<resources>
+    <style name="Widget.Theme.TaskTrack.MyView" parent="">
+        <item name="android:background">@color/blue_background</item>
+        <item name="exampleColor">@color/blue_primary</item>
+    </style>
+</resources>
